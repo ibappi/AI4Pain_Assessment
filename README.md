@@ -27,10 +27,14 @@ checkpoints/         Saved model weights
 data/                Raw/processed/sample data
 ```
 
+## Dataset
+We used tha datset from this challenge: https://sites.google.com/view/ai4pain2025/challenge-details?authuser=0
+Inside the data folder, We have added some example of data's. You can the idea of data from there. 
+
 ## Citation
 
 If you use this code, please cite our AICOMS 2026 paper:
-
+```text
 @inproceedings{bappi2026ai4pain,
   title={AI4Pain Assessment Using Multimodal Physiological Signals},
   author={Bappi, Ilias and others},
@@ -39,3 +43,4 @@ If you use this code, please cite our AICOMS 2026 paper:
   year={2026},
   note={In press}
 }
+```
