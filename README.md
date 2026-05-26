@@ -26,3 +26,16 @@ results/             Prediction files and figures
 checkpoints/         Saved model weights
 notebooks/           Jupyter notebooks for experiments
 data/                Raw/processed/sample data
+
+## Citation
+
+If you use this code, please cite our AICOMS 2026 paper:
+
+@inproceedings{bappi2026ai4pain,
+  title={AI4Pain Assessment Using Multimodal Physiological Signals},
+  author={Bappi, Ilias and others},
+  booktitle={AICOMS 2026},
+  publisher={Springer},
+  year={2026},
+  note={In press}
+}
