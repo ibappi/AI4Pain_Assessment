@@ -18,14 +18,14 @@ The framework includes preprocessing, modality-specific modeling, attention-base
 ## Repository Structure
 
 ```text
-src/preprocessing/   Data preprocessing scripts
+preprocessing/   Data preprocessing scripts
 src/models/          Model architecture files
 src/training/        Training scripts
 src/evaluation/      Evaluation and testing scripts
-results/             Prediction files and figures
+Figures/             Prediction files and figures
 checkpoints/         Saved model weights
-notebooks/           Jupyter notebooks for experiments
 data/                Raw/processed/sample data
+```
 
 ## Citation
 
