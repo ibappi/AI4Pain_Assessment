@@ -29,6 +29,7 @@ data/                Raw/processed/sample data
 
 ## Citation
 
+```text
 If you use this code, please cite our AICOMS 2026 paper:
 
 @inproceedings{bappi2026ai4pain,
